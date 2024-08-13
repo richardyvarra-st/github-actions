@@ -24,5 +24,7 @@ jobs:
                 run: echo "::add-mask::Secret String"
               - name: Echo a secret
                 run: echo "Secret String"
+
+                ## The following command will not work as it is not a valid command
         
 
