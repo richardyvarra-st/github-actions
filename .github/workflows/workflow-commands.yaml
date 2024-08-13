@@ -27,4 +27,4 @@ jobs:
 
                 ## The following command will not work as it is not a valid command
         
-
+                # - name: Setting an error message with params
