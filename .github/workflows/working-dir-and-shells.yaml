@@ -33,6 +33,6 @@ jobs:
             - name: Python Shell
               shell: python
               run: |
-                Import platform
+                import platform
                 print(platform.processor())
             
